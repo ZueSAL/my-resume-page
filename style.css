@@ -1,0 +1,23 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	font-style: italic;
+/*	color: white;*/
+/*	background-color: green;*/
+/*  opacity: 0.1*/
+    background-image: url("olli-the-polite-cat.avif");
+    background-repeat: no-repeat;
+}
+
+h2 {
+	color: darkred;
+	text-decoration: underline;
+}
+
+.main-title {
+	color: purple;
+}
+
+p.{
+	text-align: center;
+	letter-spacing: 5px;
+}
